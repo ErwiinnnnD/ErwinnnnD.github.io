@@ -1,0 +1,146 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color:#F8CBA6 ;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 5.625rem;
+    line-height: 1;
+    margin: 50px auto 0 auto;
+    color: #F8CBA6;
+}
+
+h2{
+
+    color: #F8CBA6;
+    font-family: 'Caveat', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+h3{
+    font-family: 'Caveat', cursive;
+}
+
+.TopContainer{
+    background-color: #6B728E;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #ECF9FF;
+    width: 100%;
+}
+
+.ContactM{
+    width: 20px;
+}
+
+.middle-container{
+    margin: 100px 0px
+}
+
+.bottom-container{
+   background-color: #474E68;
+   margin: 0px;
+   padding: 5px;
+   border: solid 1px #F8CBA6;
+}
+
+.fur{
+    text-decoration: underline;
+}
+
+.ContactM{
+    width: 40%;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.intru{
+    width: 30%;
+    margin: auto;
+}
+
+.pc{
+    width: 25%;
+    float: right;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.ui{
+    width: 30%;
+    float: left;
+    margin: 15px;
+    padding-bottom: 10px;
+}
+hr{
+    border: dotted 6px ;
+    border-bottom: none;
+    color: black;
+    width: 4%;
+    margin: 100px auto;
+}
+p{
+    color: black;
+    line-height: 2; 
+}
+a{
+    color:#F8CBA6 ;
+    font-family: 'Caveat', cursive;
+    margin: 10px 20px
+}
+a:hover{
+    color: #000000;
+}
+.wewew{
+    width: 40%;
+    margin: 70px auto 60px;
+}
+.btn {
+    background: #f0e3ad;
+    background-image: -webkit-linear-gradient(top, #f0e3ad, #F8CBA6);
+    background-image: -moz-linear-gradient(top, #f0e3ad, #F8CBA6);
+    background-image: -ms-linear-gradient(top, #f0e3ad, #F8CBA6);
+    background-image: -o-linear-gradient(top, #f0e3ad, #F8CBA6);
+    background-image: linear-gradient(to bottom, #f0e3ad, #F8CBA6);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+  }
+  .btn:hover {
+    background: #F8CBA6;
+    background-image: -webkit-linear-gradient(top, #F8CBA6, #F8CBA6);
+    background-image: -moz-linear-gradient(top, #F8CBA6, #F8CBA6);
+    background-image: -ms-linear-gradient(top, #F8CBA6, #F8CBA6);
+    background-image: -o-linear-gradient(top, #F8CBA6, #F8CBA6);
+    background-image: linear-gradient(to bottom, #F8CBA6, #F8CBA6);
+    text-decoration: none;
+  }
+
+  .Wino{
+    color: #000000;
+    font-size: 1rem;
+    padding: 10px;
+  }
+.skills{
+    background-color: #6B728E;
+    padding-bottom: 50px;
+}
+
